@@ -1,0 +1,23 @@
+{
+  "keyboard_name": "2x5 Macropad",
+  "manufacturer": "Custom",
+  "url": "",
+  "maintainer": "you",
+  "layouts": {
+    "LAYOUT_ortho_2x5": {
+      "layout": [
+        { "label": "K0", "x": 0, "y": 0 },
+        { "label": "K1", "x": 1, "y": 0 },
+        { "label": "K2", "x": 2, "y": 0 },
+        { "label": "K3", "x": 3, "y": 0 },
+        { "label": "K4", "x": 4, "y": 0 },
+
+        { "label": "K5", "x": 0, "y": 1 },
+        { "label": "K6", "x": 1, "y": 1 },
+        { "label": "K7", "x": 2, "y": 1 },
+        { "label": "K8", "x": 3, "y": 1 },
+        { "label": "K9", "x": 4, "y": 1 }
+      ]
+    }
+  }
+}
