@@ -1,0 +1,3 @@
+build_matrix:
+  nice_nano:
+    keymap: nice_nano
